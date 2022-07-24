@@ -4,7 +4,7 @@
 GUIにはQtを使用しています。  
 
 ## Demo
-
+![colormap](https://user-images.githubusercontent.com/12496951/180650452-07f8ec16-05cb-47ed-9a32-e8fc47cbad18.PNG)
 
 ## 計算式
 私の備忘録も兼ねて、計算式の過程も記載しています。  
